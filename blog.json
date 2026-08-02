@@ -34,5 +34,17 @@
       }
     ],
     "createdAt": "2026-08-02T08:28:26.973Z"
+  },
+  {
+    "id": "e-msbo4gu5-80kx24",
+    "createdAt": "2026-08-02T10:39:22.685Z",
+    "title": "Roof terrace redesign",
+    "text": "Gemeinsam haben wir diese Dachterrasse in eine gemütliche Wohlfühloase verwandelt – mit einer bequemen Couch und viel Grün für entspannte Stunden im Freien. 🌿☀️",
+    "mood": "top",
+    "images": [
+      {
+        "src": "https://raw.githubusercontent.com/bernhardkreminski/hgs-data/main/images/e-msbo4ekl-z5i33f-1.jpg"
+      }
+    ]
   }
 ]
